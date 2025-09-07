@@ -33,7 +33,7 @@ The system sends real-time alerts over MQTT to enable remote monitoring.
 </p>
 
 <p align="center">
-  <img src="project3.jpg" alt="Output Alert - 2" height = "350" width="700"/>
+  <img src="output.jpg" alt="Output Alert - 2"  width="700"/>
 </p>
 
 
