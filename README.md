@@ -22,17 +22,18 @@ The system sends real-time alerts over MQTT to enable remote monitoring.
 </p>
 
 
+## Project Images
+
 <p align="center">
   <img src="project1.jpg" alt="Actual Assembeld" width="700"/>
 </p>
-
 
 <p align="center">
   <img src="project2.jpg" alt="Output Alert - 1" width="700"/>
 </p>
 
 <p align="center">
-  <img src="project3.jpg" alt="Output Alert - 2" width="700"/>
+  <img src="project3.jpg" alt="Output Alert - 2" height = "350" width="700"/>
 </p>
 
 
